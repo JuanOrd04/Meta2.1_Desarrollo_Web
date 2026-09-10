@@ -1,6 +1,6 @@
 # Portafolio Universitario - Vue 3 & Vuetify
 
-Este es un proyecto escolar de nivel universitario correspondiente a la asignatura "Desarrollo de Aplicaciones Web". Consiste en una aplicación web tipo portafolio que consume imágenes dinámicas desde una API pública (Picsum) y muestra el perfil técnico del estudiante.
+ Consiste en una aplicación web tipo portafolio que consume imágenes dinámicas desde una API pública (Picsum) y muestra mi perfil tecnico.
 
 ## Captura de Pantalla
 
