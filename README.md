@@ -5,7 +5,7 @@ Este es un proyecto escolar de nivel universitario correspondiente a la asignatu
 ## Captura de Pantalla
 *(Nota: Añadir aquí una captura real de tu proyecto corriendo)*
 
-![Captura de la Aplicación](./screenshot.png)
+![Captura de la Aplicación](./FotoPagina.png)
 
 ## Tecnologías Utilizadas
 - **Vue 3** (Framework frontend progresivo, usando Composition API)

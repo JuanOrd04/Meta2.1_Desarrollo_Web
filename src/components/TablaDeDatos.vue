@@ -3,7 +3,7 @@
 const habilidades = [
   { tecnica: 'HTML, CSS y JavaScript', nivel: 'Intermedio', experiencia: '2 años' },
   { tecnica: 'Vue 3 & Vuetify', nivel: 'Básico', experiencia: 'Menos de 1 año' },
-  { tecnica: 'Git y GitHub', nivel: 'Intermedio', experiencia: '1.5 años' },
+  { tecnica: 'Git y GitHub', nivel: 'Intermedio', experiencia: '2 años' },
   { tecnica: 'Consumo de APIs REST', nivel: 'Básico', experiencia: '1 año' }
 ]
 </script>

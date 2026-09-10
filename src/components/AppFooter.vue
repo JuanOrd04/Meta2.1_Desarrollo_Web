@@ -18,10 +18,10 @@ const currentYear = computed(() => new Date().getFullYear())
     <v-container>
       <v-row justify="center">
         <v-col cols="12" sm="4" class="py-2">
-          <strong>Nombre:</strong> Juan Pérez <!-- Cambiar por el nombre real -->
+          <strong>Nombre:</strong> Juan Roberto Orduna Lopez 
         </v-col>
         <v-col cols="12" sm="4" class="py-2">
-          <strong>Matrícula:</strong> 01234567 <!-- Cambiar por la matrícula real -->
+          <strong>Matrícula:</strong> 1199020 
         </v-col>
         <v-col cols="12" sm="4" class="py-2">
           <strong>Fecha:</strong> {{ currentDate }}
