@@ -3,7 +3,6 @@
 Este es un proyecto escolar de nivel universitario correspondiente a la asignatura "Desarrollo de Aplicaciones Web". Consiste en una aplicación web tipo portafolio que consume imágenes dinámicas desde una API pública (Picsum) y muestra el perfil técnico del estudiante.
 
 ## Captura de Pantalla
-*(Nota: Añadir aquí una captura real de tu proyecto corriendo)*
 
 ![Captura de la Aplicación](./FotoPagina.png)
 
@@ -28,7 +27,7 @@ Sigue estos pasos para poder levantar el entorno en tu computadora:
    npm run dev
    ```
 4. **Visualiza la aplicación:**
-   Abre tu navegador (preferiblemente Google Chrome o Firefox) y accede al enlace local que arroja la terminal (por defecto, suele ser `http://localhost:5173/`).
+   Abre tu navegador y accede al enlace local que arroja la terminal.
 
 ## Estructura del Proyecto
 
